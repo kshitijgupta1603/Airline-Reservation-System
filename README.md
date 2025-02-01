@@ -1,4 +1,4 @@
-                                AIRLINE RESERVATION SYSTEM
+                                                            AIRLINE RESERVATION SYSTEM
 
 Airline reservation System is a programmed system which is used
 to store and retrieve information and conduct transactions related
