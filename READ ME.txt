@@ -4,7 +4,7 @@ Airline reservation System is a programmed system which is used
 to store and retrieve information and conduct transactions related
 to air travel. The project aims to design an Airline Reservation
 System application which enables the customers to search and
-book flight .
+book flight.
 
 After searching, the system displays a list of available flights and
 allows customers to choose a particular flight. To book a flight the
