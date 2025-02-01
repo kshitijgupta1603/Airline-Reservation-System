@@ -5,7 +5,7 @@ mycursor=conn.cursor(buffered=True)
 
 #Function To Create Tables
 
-def create_tables():                                             # this function creates all the tables in the database airline, if they are not already created.
+def create_tables():                                             # this function creates all the tables in the database airline
 
     qury='''create table flights(SerialNo int, Departure varchar(20), Arrival varchar(20), DepartureDate varchar(20),
     ArrivalDate varchar(20), DepartureTime varchar(10), ArrivalTime varchar(10), Price int)'''
